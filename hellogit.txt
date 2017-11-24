@@ -2,3 +2,4 @@ hello,git.
 my name is ray.
 i am learning git.
 i like to learn git.
+git is great.
